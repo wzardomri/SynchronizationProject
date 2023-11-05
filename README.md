@@ -1,2 +1,1 @@
-# SynchronizationProject
-EEC 289Q  Batch Processing and Synchronization Project
+This is our project for EEC289Q Deep Learning Hardware
