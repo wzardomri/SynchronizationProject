@@ -1,0 +1,6 @@
+Run,BatchSize,LearningRate,Epochs,TrainAccuracy,TrainLoss,TrainHistory,ValAccuracy,ValLoss,ValHistory,GPUCount,PreTrain,SyncAmount,MergeType,TrainTime,SavePathInput,SavePathOutput
+0,32,0.0001,6,51.65172540832617,1.729310593885534,,19.61841559518872,3.1615913918143823,,1,True,1,NONE,113.30970907211304,../SynchronizationProject/SaveData/PreSave15.pth,../SynchronizationProject/SaveData/Weights/0.pth
+1,32,0.0001,6,92.93872037332679,0.29194582519578,,18.788884280381584,4.010283357218692,,3,True,3,MaximumWeight,874.3961591720581,../SynchronizationProject/SaveData/PreSave15.pth,../SynchronizationProject/SaveData/Weights/1MaximumWeight.pth
+1,32,0.0001,6,93.00012280486307,0.2918849895397822,,19.411032766486937,3.942264519239727,,3,True,3,MinimumWeight,858.7754197120667,../SynchronizationProject/SaveData/PreSave15.pth,../SynchronizationProject/SaveData/Weights/1MinimumWeight.pth
+1,32,0.0001,6,92.82819599656146,0.2858882018164092,,18.664454583160513,4.036033787225422,,3,True,3,MedianWeight,866.233553647995,../SynchronizationProject/SaveData/PreSave15.pth,../SynchronizationProject/SaveData/Weights/1MedianWeight.pth
+1,32,0.0001,6,92.4106594621147,0.3090134510806963,,20.406470344255496,3.8942957457743193,,3,True,3,MeanWeight,860.0890209674835,../SynchronizationProject/SaveData/PreSave15.pth,../SynchronizationProject/SaveData/Weights/1MeanWeight.pth
