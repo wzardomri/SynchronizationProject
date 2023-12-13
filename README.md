@@ -1,4 +1,3 @@
-This is our project for EEC289Q Deep Learning Hardware
 # SynchronizationProject
 Multi-GPU Synchronization
 By Omri Steinberg-Tatman and Jackson Vaughn
@@ -12,4 +11,4 @@ With this project, we gave a presentation, and the slides for that can be found 
 
 The relevant weight saves and output data frames can be found here [HERE](https://github.com/wzardomri/SynchronizationProject/tree/main/SaveData)
 
-The notebooks used to run the code can be found here [HERE]()
+The notebooks used to run the code can be found here [HERE](https://github.com/wzardomri/SynchronizationProject/tree/main/Notebooks)
